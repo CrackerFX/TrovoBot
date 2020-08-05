@@ -8,5 +8,5 @@ Free Huge Casino Pack
 
 Command:
 !points
-!points set <@user> <point>
-!points send <@user> <point>
+!points set @user amount
+!points send @user amount
