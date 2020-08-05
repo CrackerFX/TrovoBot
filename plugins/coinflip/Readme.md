@@ -8,4 +8,5 @@ Free Huge Casino Pack
 
 Command:
 	!coinflip amount side
-Side should #heads or #tails
+	
+Side should heads or tails
